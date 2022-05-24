@@ -1,0 +1,3 @@
+[submodule "WebScraping-Test_Cases"]
+	path = WebScraping-Test_Cases
+	url = https://github.com/motatan79/WebScraping-Test_Cases
